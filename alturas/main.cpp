@@ -37,7 +37,7 @@ int main()
 
     cout << fixed << setprecision(2);
 
-    cout << "\nA media de altura eh de " << somaAlt/n << ".\n";
+    cout << "\nA media de altura eh de " << somaAlt/n << ".it \n";
 
     cont = 0;
     for (int i = 0; i < n; i++) {
